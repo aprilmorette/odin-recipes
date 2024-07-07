@@ -1,0 +1,29 @@
+/* styles.css */
+
+* {
+    background-color: #8f9779;
+}
+
+h1 {
+    font-family: "Courier New", monospace;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Copperplate", fantasy;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 500px;
+}
+
+p2, p3 {
+    font-family: "Copperplate", fantasy;
+    text-decoration: underline;
+}
